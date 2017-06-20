@@ -8,8 +8,8 @@ I have added both ipynb and html files.
 
 Function+get_sec_zip_by_period : 
 
-       This takes a zip file and transforms into a DataFrame
+    This takes a zip file and transforms into a DataFrame
 
 BlackStone Managers : 
  
-         Parses a json file and displays the Black Stone Managers in the "345, Park Avenue, New York" area.
+    Parses a json file and displays the Black Stone Managers in the "345, Park Avenue, New York" area.
